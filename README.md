@@ -39,3 +39,7 @@ Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de un
 Creando códigos de bloque.
 Puedes añadir tantas líneas y párrafos como quieras.  
 ~~~
+
+<http://www.limni.net>
+
+![Texto alternativo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
