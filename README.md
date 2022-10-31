@@ -1,5 +1,5 @@
 # Actividad GIT
-##Ejercicio 6
+## Ejercicio 6
 ### Editor del readme
 Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
 - Elemento 1
